@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="icon" href="/img/pic2.png">
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body id="about">
+    <div class="main-content">
+        {{>header}}
+
+        {{!-- <img class="picture" src="/img/pic1.jpg" alt=""> --}}
+        <h2 id="info"> Weather App tells you about the weather information of a location.</h2>
+        <h3>Backend Stack</h3>
+        <ul style="list-style: none;">
+            <li><strong>NodeJS : </strong>NodeJS is used as a runtime environment for creating servers,
+                used for making get/post requests and send responses accoringly. </li>
+            <li><strong>ExpressJS : </strong> Express framework is used to handel http requests (created
+                http server) form the client-side and sending responses accordingly.</li>
+            <li>
+                <strong>Weatherstack Api : </strong> </a>Retrieves instant,
+                accurate weather information for any location in the world in lightweight JSON format.
+                <a href="https://weatherstack.com/">More details</a>
+            </li>
+            <li>
+                <strong>MapBox Api :</strong>The Mapbox Geocoding API does two things: forward geocoding and reverse
+                geocoding.
+                <a href="https://docs.mapbox.com/api/overview/">More details</a>
+            </li>
+
+        </ul>
+        <h3>Frontend Stack</h3>
+        <ul style="list-style: none;">
+            <li>Frontend is not very heavy but still worth metioning.</li>
+            <li><strong>Html : </strong>Building block, as you all know, is our HTML.</li>
+            <li><strong>CSS : </strong>CSS is used for creating and manipulating styles.</li>
+            <li><strong>Javascript : </strong>JS is used for writing scripts for the client .</li>
+        </ul>
+    </div>
+    {{>footer}}
+</body>
+
+</html>
