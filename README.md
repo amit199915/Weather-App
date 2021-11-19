@@ -1,7 +1,7 @@
 # Weather-App
 Weather App that tell the weather information of any location in the world. Built using NodeJS, Weatherstack and Mapbox API.
 
-# Project Deployed At Heroku: https://weather-app-by-ag.herokuapp.com/
+### Project Deployed At Heroku: https://weather-app-by-ag.herokuapp.com/
 
 ![Screenshot from 2021-11-20 00-05-16](https://user-images.githubusercontent.com/50790815/142674368-b17334df-8350-4679-9ceb-bbb8bf4e5f0d.png)
 
