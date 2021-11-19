@@ -1,25 +1,14 @@
 # Weather-App
 Weather App that tell the weather information of any location in the world. Built using NodeJS, Weatherstack and Mapbox API.
 
-Project Deployed At Heroku: https://weather-app-by-ag.herokuapp.com/
+# Project Deployed At Heroku: https://weather-app-by-ag.herokuapp.com/
 
-![Screenshot from 2021-11-12 16-50-59](https://user-images.githubusercontent.com/50790815/141459673-12df5bb6-af5b-4f83-b76a-08ce499b08a2.png)
+![Screenshot from 2021-11-20 00-05-16](https://user-images.githubusercontent.com/50790815/142674368-b17334df-8350-4679-9ceb-bbb8bf4e5f0d.png)
 
+![Screenshot from 2021-11-20 00-05-28](https://user-images.githubusercontent.com/50790815/142674372-a3d00e81-79a7-414e-8b0e-99cbbffaa959.png)
 
+![Screenshot from 2021-11-20 00-06-08](https://user-images.githubusercontent.com/50790815/142674379-f04097d4-3b38-4991-96cf-00fed5302c81.png)
 
-![Screenshot from 2021-11-12 16-51-18](https://user-images.githubusercontent.com/50790815/141459681-d86dd1ee-80fb-47ed-9dd2-d68856b0363a.png)
-
-
-
-![Screenshot from 2021-11-12 16-51-34](https://user-images.githubusercontent.com/50790815/141459684-5a0896d7-7a30-4d80-b8a8-846a734d9db7.png)
-
-
-
-
-
-	
-	
-	
 
 # Backend Stack
 NodeJS : NodeJS is used as a runtime environment for
