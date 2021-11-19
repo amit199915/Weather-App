@@ -23,11 +23,10 @@ responses accordingly.
 
 Weatherstack Api : Retrieves instant, accurate weather
 information for any location in the world in lightweight JSON format.
-More details
 
 
 MapBox Api :The Mapbox Geocoding API does two things:
-forward geocoding and reverse geocoding. More details
+forward geocoding and reverse geocoding.
 
 
 # Frontend Stack
